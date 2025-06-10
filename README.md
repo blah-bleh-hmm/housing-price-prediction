@@ -31,16 +31,16 @@ This project was created to learn full stack development by combining a trained 
 ## 📁 Project Structure
 
 housing-price-predictor/
-├── app.py # Flask backend logic
-├── columns.json # Feature columns used by the model
-├── model.pickle # Trained ML model
-├── requirements.txt # Required Python packages
-├── templates/
-│ └── index.html # Frontend HTML form
-├── static/
-│ └── style.css # Optional: CSS styling (if added)
-├── util.py # Helper functions (if any)
-└── README.md # This file
+├── app.py # Flask backend logic <br>
+├── columns.json # Feature columns used by the model <br>
+├── model.pickle # Trained ML model <br>
+├── requirements.txt # Required Python packages <br>
+├── templates/ <br>
+│ └── index.html # Frontend HTML form <br>
+├── static/ <br>
+│ └── style.css # Optional: CSS styling (if added) <br>
+├── util.py # Helper functions (if any) <br>
+└── README.md # This file <br>
 
 ---
 
@@ -48,12 +48,13 @@ housing-price-predictor/
 
 
 - **🏡 Input Form**  
-  ![Input Form]![image](https://github.com/user-attachments/assets/e4bf6ab0-56aa-49ac-95c6-1128e50d2544)
+  ![Input Form]![image]![image](https://github.com/user-attachments/assets/1a8c9e49-7a6e-4e25-9d51-0b7828201d6f)
+)
 
 
 - **📈 Prediction Output**  
-  ![Prediction Output](![image](https://github.com/user-attachments/assets/3ef1e251-2469-4730-b594-11c543300016)
-)
+  ![Prediction Output](![image](https://github.com/user-attachments/assets/5137cd10-f834-4c15-8734-7a2364fceab5)
+
 
 ---
 
@@ -61,7 +62,7 @@ housing-price-predictor/
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/housing-price-predictor
+   git clone https://github.com/blah-bleh-hmm/housing-price-predictor
    cd housing-price-predictor
    ```
    
