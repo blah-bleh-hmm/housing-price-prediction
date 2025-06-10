@@ -48,12 +48,12 @@ housing-price-predictor/
 
 
 - **🏡 Input Form**  
-  ![Input Form]![image]![image](https://github.com/user-attachments/assets/1a8c9e49-7a6e-4e25-9d51-0b7828201d6f)
-)
+  ![Input Form]![image](https://github.com/user-attachments/assets/1a8c9e49-7a6e-4e25-9d51-0b7828201d6f)
+
 
 
 - **📈 Prediction Output**  
-  ![Prediction Output](![image](https://github.com/user-attachments/assets/5137cd10-f834-4c15-8734-7a2364fceab5)
+  ![Prediction Output]![image](https://github.com/user-attachments/assets/5137cd10-f834-4c15-8734-7a2364fceab5)
 
 
 ---
